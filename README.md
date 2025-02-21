@@ -15,8 +15,9 @@ bun dev
 ```
 ![Alt Text](public/Start.png)
 ![Alt Text](public/ss1.png)
-
-![Alt Text](public/Screenshot 2025-02-22 004847.png)
+![Alt Text](public/ss2.png)
+![Alt Text](public/ss3.png)
+![Alt Text](public/ss4.png)
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.

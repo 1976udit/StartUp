@@ -14,6 +14,7 @@ pnpm dev
 bun dev
 ```
 ![Alt Text](public/Start.png)
+![Alt Text](public/ss1.png)
 
 ![Alt Text](public/Screenshot 2025-02-22 004847.png)
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
